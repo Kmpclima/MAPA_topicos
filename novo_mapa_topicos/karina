@@ -1,6 +1,8 @@
 public class HelloWorld {
     public static void main(String[] args){
         System.out.println("Olá, Mundo");
+        System.out.println("Essa é a versão criada para a atividade MAPA como nova branch.");
+        System.out.println("Espero realmente que dê certo porque tudo isso parece um bicho de sete cabeças para mim");
     }
     
 }
